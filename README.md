@@ -40,10 +40,9 @@ Ecourse is our project that is done as also called an online course, is any cour
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
-![Screenshot 2022-09-17 154654](https://user-images.githubusercontent.com/109589503/190851860-050a7043-a7af-49bb-89ad-8e8f9b7c5516.png)
+![Screenshot 2022-09-18 102153](https://user-images.githubusercontent.com/109589503/190886375-4137a3d6-c9ff-44a8-962b-f534bf1e17d7.png)
 
-![Screenshot 2022-09-17 154911](https://user-images.githubusercontent.com/109589503/190853814-69110c99-07c4-4e7f-88b5-81225eabe76a.png)
-
+![Screenshot 2022-09-18 102231](https://user-images.githubusercontent.com/109589503/190886383-3d3b60e1-3412-4863-b507-ee960328e3f1.png)
 
 # About Me
 We are BTech pursuing Student,from Btech 3rd year we consider this as problem as we facing the same situations in daily life lack of knowledge in basic concepts 
