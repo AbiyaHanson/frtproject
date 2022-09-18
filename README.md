@@ -4,7 +4,7 @@ Future Ready Talent Final Project
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK : [https://agreeable-mud-0b1eb1410.1.azurestaticapps.net](https://purple-bay-0c6bc6510.1.azurestaticapps.net)
 
 
 
